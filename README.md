@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Yuval Bank 👋
 
-<!--
-**YuvalBank/YuvalBank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Cloud & Cybersecurity Analyst** with a strong passion for Cloud Infrastructure, Offensive Security & Automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- **Cloud & Infrastructure:** GCP, IaC & Terraform Fundamentals
+- **Cybersecurity & Hands-on:** Cloud Security Principles, Defensive & Offensive Basics
+- **Tools & Scripting:** Linux CLI, Git, Intro to Bash
+
+---
+
+### 🎓 Certifications & Achievements
+
+- **DACA Cyber Analyst Course (Israeli Government) (420 hrs)** | Honors Graduate
+
+---
+
+### 🚧 Projects & Practice
+
+- In progress: building small labs and exercises to solidify IaC and cloud-security skills (will add links to repos/HTB profile soon)
+
+---
+
+### 📬 Connect with Me
+
+- **LinkedIn:** [Yuval Bank](https://www.linkedin.com/in/yuval-bank)
+
+---
+
+> *"Automate all the things, secure the rest."*
